@@ -7,7 +7,7 @@ end
 def my_hash
   # return a valid hash with any key/value pair of your choice
   tv_shows{
-    horror: "Haunting of Hill House"
+    :horror => "Haunting of Hill House"
   }
 end
 
